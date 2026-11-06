@@ -41,7 +41,7 @@ The initial exploratory analysis examines:
 - Pairwise correlations and potential multicollinearity.
 - Relationships between environmental features and forest cover types.
 
-**[View the Exploratory Data Analysis Notebook](forest-covertype-ml/notebooks/01_exploratory_analysis.ipynb)**
+**[View the Exploratory Data Analysis Notebook](notebooks/01_exploratory_analysis.ipynb)**
 
 ### Tools
 
