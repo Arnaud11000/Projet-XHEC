@@ -6,7 +6,17 @@ As part of my studies in Data Science and Artificial Intelligence at École Poly
 
 ## Current Project: Forest Cover Type Classification
 
-**Status:** In progress — Exploratory Data Analysis
+**Status:** In progress — Baseline Models
+
+### Next step
+
+-Creating evaluation.py to compute fastly accuracies with evaluate_model() and plot model performance according to hyperparameters with plot_validation_curve()
+
+-Only stick to baseline models in 02, parameters tuning should be for a third section.
+
+-Section 04: model comparison (F1-score, confusion matrices, error analysis)
+
+-Section 05: robustness analysis
 
 ### Overview
 
